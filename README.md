@@ -50,8 +50,8 @@ We have used the following technologies to build this platform:
 ## Installation & Usage
 ### **Step 1: Clone the Repository**
 ```sh
- git clone https://github.com/your-repo-url.git
- cd your-repo-folder
+ git clone https://github.com/rahulkhandait-sde/s3.git
+ cd s3
 ```
 
 ### **Step 2: Set Up Virtual Environment**
