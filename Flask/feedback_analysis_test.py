@@ -7,7 +7,10 @@ from collections import defaultdict
 from dotenv import load_dotenv
 import google.generativeai as genai
 import os
-
+import gdown
+file_id = "1mU1jc9dhppTBx1R69R2ZmlNsN9RfyBW4"
+output  = "feedback_analysis_bert.pth"
+gdown.download(f"https://drive.google.com/uc?id={file_id}", output, quiet=False)
 load_dotenv()
 genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
 
