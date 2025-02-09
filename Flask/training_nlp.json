@@ -1,0 +1,852 @@
+[
+    {
+        "id": 1,
+        "stakeholder": "parent",
+        "feedback": "The school lacks proper transport facilities. My child has to walk a long distance daily.",
+        "cleaned_text": "school lacks transport child walk long distance",
+        "sentiment": "Negative",
+        "policy_match": [
+            "Transportation Assistance"
+        ]
+    },
+    {
+        "id": 2,
+        "stakeholder": "teacher",
+        "feedback": "We need better digital classrooms. The current infrastructure is outdated and not effective.",
+        "cleaned_text": "need better digital classrooms infrastructure outdated ineffective",
+        "sentiment": "Negative",
+        "policy_match": [
+            "Digital Infrastructure"
+        ]
+    },
+    {
+        "id": 3,
+        "stakeholder": "student",
+        "feedback": "There should be more vocational courses in our curriculum. It will help us in future careers.",
+        "cleaned_text": "more vocational courses help future careers",
+        "sentiment": "Positive",
+        "policy_match": [
+            "Vocational Education"
+        ]
+    },
+    {
+        "id": 4,
+        "stakeholder": "parent",
+        "feedback": "The self-defense training for girls should be extended to more schools. Safety is a big concern.",
+        "cleaned_text": "self-defense training extended more schools safety concern",
+        "sentiment": "Neutral",
+        "policy_match": [
+            "Child Rights and Safety"
+        ]
+    },
+    {
+        "id": 5,
+        "stakeholder": "teacher",
+        "feedback": "In-service teacher training is helpful, but we need more hands-on workshops.",
+        "cleaned_text": "in-service teacher training helpful need more hands-on workshops",
+        "sentiment": "Positive",
+        "policy_match": [
+            "Teacher Training"
+        ]
+    },
+    {
+        "id": 6,
+        "stakeholder": "student",
+        "feedback": "The hostel conditions need improvement. Sanitary pad vending machines should be installed.",
+        "cleaned_text": "hostel conditions need improvement sanitary pad vending machines installed",
+        "sentiment": "Negative",
+        "policy_match": [
+            "Sanitation and Hostels"
+        ]
+    },
+    {
+        "id": 7,
+        "stakeholder": "parent",
+        "feedback": "There should be more financial support for underprivileged children. Many students struggle to afford books and uniforms.",
+        "cleaned_text": "financial support underprivileged children struggle afford books uniforms",
+        "sentiment": "Negative",
+        "policy_match": [
+            "Student Support and Welfare"
+        ]
+    },
+    {
+        "id": 8,
+        "stakeholder": "teacher",
+        "feedback": "Smart classrooms should be available in all schools. Many rural schools still rely on traditional methods.",
+        "cleaned_text": "smart classrooms available schools many rural still rely traditional methods",
+        "sentiment": "Positive",
+        "policy_match": [
+            "Digital Infrastructure"
+        ]
+    },
+    {
+        "id": 9,
+        "stakeholder": "student",
+        "feedback": "We need better sports facilities. Our school does not have a proper playground or sports equipment.",
+        "cleaned_text": "need better sports facilities school lacks proper playground sports equipment",
+        "sentiment": "Negative",
+        "policy_match": [
+            "Uncategorized"
+        ]
+    },
+    {
+        "id": 10,
+        "stakeholder": "parent",
+        "feedback": "The stipend for girls should be increased. Many students drop out due to financial issues.",
+        "cleaned_text": "stipend girls increased many students drop due financial issues",
+        "sentiment": "Negative",
+        "policy_match": [
+            "Student Support and Welfare"
+        ]
+    },
+    {
+        "id": 11,
+        "stakeholder": "teacher",
+        "feedback": "Vocational training should include more hands-on industry exposure, not just theoretical lessons.",
+        "cleaned_text": "vocational training include more hands-on industry exposure theoretical lessons",
+        "sentiment": "Positive",
+        "policy_match": [
+            "Vocational Education"
+        ]
+    },
+    {
+        "id": 12,
+        "stakeholder": "student",
+        "feedback": "Digital learning resources should be available to all students, even in remote areas.",
+        "cleaned_text": "digital learning resources available all students remote areas",
+        "sentiment": "Positive",
+        "policy_match": [
+            "Digital Infrastructure"
+        ]
+    },
+    {
+        "id": 13,
+        "stakeholder": "parent",
+        "feedback": "More security is needed in schools. Safety of students is a priority.",
+        "cleaned_text": "more security needed schools safety students priority",
+        "sentiment": "Negative",
+        "policy_match": [
+            "Child Rights and Safety"
+        ]
+    },
+    {
+        "id": 14,
+        "stakeholder": "teacher",
+        "feedback": "The assessment system should be improved to track students’ progress better.",
+        "cleaned_text": "assessment system improved track students progress better",
+        "sentiment": "Neutral",
+        "policy_match": [
+            "Assessment Cell Establishment"
+        ]
+    },
+    {
+        "id": 15,
+        "stakeholder": "student",
+        "feedback": "More emphasis should be given to extracurricular activities along with studies.",
+        "cleaned_text": "more emphasis extracurricular activities along studies",
+        "sentiment": "Positive",
+        "policy_match": [
+            "Uncategorized"
+        ]
+    },
+    {
+        "id": 1,
+        "stakeholder": "parent",
+        "feedback": "The school lacks proper transport facilities. My child has to walk a long distance daily.",
+        "cleaned_text": "school lacks transport child walk long distance",
+        "sentiment": "Negative",
+        "policy_match": [
+            "Transportation Assistance"
+        ]
+    },
+    {
+        "id": 2,
+        "stakeholder": "teacher",
+        "feedback": "We need better digital classrooms. The current infrastructure is outdated and not effective.",
+        "cleaned_text": "need better digital classrooms infrastructure outdated ineffective",
+        "sentiment": "Negative",
+        "policy_match": [
+            "Digital Infrastructure"
+        ]
+    },
+    {
+        "id": 3,
+        "stakeholder": "student",
+        "feedback": "There should be more vocational courses in our curriculum. It will help us in future careers.",
+        "cleaned_text": "more vocational courses help future careers",
+        "sentiment": "Positive",
+        "policy_match": [
+            "Vocational Education"
+        ]
+    },
+    {
+        "id": 4,
+        "stakeholder": "parent",
+        "feedback": "The self-defense training for girls should be extended to more schools. Safety is a big concern.",
+        "cleaned_text": "self-defense training extended more schools safety concern",
+        "sentiment": "Neutral",
+        "policy_match": [
+            "Child Rights and Safety"
+        ]
+    },
+    {
+        "id": 5,
+        "stakeholder": "teacher",
+        "feedback": "In-service teacher training is helpful, but we need more hands-on workshops.",
+        "cleaned_text": "in-service teacher training helpful need more hands-on workshops",
+        "sentiment": "Positive",
+        "policy_match": [
+            "Teacher Training"
+        ]
+    },
+    {
+        "id": 6,
+        "stakeholder": "student",
+        "feedback": "The hostel conditions need improvement. Sanitary pad vending machines should be installed.",
+        "cleaned_text": "hostel conditions need improvement sanitary pad vending machines installed",
+        "sentiment": "Negative",
+        "policy_match": [
+            "Sanitation and Hostels"
+        ]
+    },
+    {
+        "id": 7,
+        "stakeholder": "parent",
+        "feedback": "There should be more financial support for underprivileged children. Many students struggle to afford books and uniforms.",
+        "cleaned_text": "financial support underprivileged children struggle afford books uniforms",
+        "sentiment": "Negative",
+        "policy_match": [
+            "Student Support and Welfare"
+        ]
+    },
+    {
+        "id": 8,
+        "stakeholder": "teacher",
+        "feedback": "Smart classrooms should be available in all schools. Many rural schools still rely on traditional methods.",
+        "cleaned_text": "smart classrooms available schools many rural still rely traditional methods",
+        "sentiment": "Positive",
+        "policy_match": [
+            "Digital Infrastructure"
+        ]
+    },
+    {
+        "id": 9,
+        "stakeholder": "student",
+        "feedback": "We need better sports facilities. Our school does not have a proper playground or sports equipment.",
+        "cleaned_text": "need better sports facilities school lacks proper playground sports equipment",
+        "sentiment": "Negative",
+        "policy_match": [
+            "Uncategorized"
+        ]
+    },
+    {
+        "id": 10,
+        "stakeholder": "parent",
+        "feedback": "The stipend for girls should be increased. Many students drop out due to financial issues.",
+        "cleaned_text": "stipend girls increased many students drop due financial issues",
+        "sentiment": "Negative",
+        "policy_match": [
+            "Student Support and Welfare"
+        ]
+    },
+    {
+        "id": 11,
+        "stakeholder": "teacher",
+        "feedback": "Vocational training should include more hands-on industry exposure, not just theoretical lessons.",
+        "cleaned_text": "vocational training include more hands-on industry exposure theoretical lessons",
+        "sentiment": "Positive",
+        "policy_match": [
+            "Vocational Education"
+        ]
+    },
+    {
+        "id": 12,
+        "stakeholder": "student",
+        "feedback": "Digital learning resources should be available to all students, even in remote areas.",
+        "cleaned_text": "digital learning resources available all students remote areas",
+        "sentiment": "Positive",
+        "policy_match": [
+            "Digital Infrastructure"
+        ]
+    },
+    {
+        "id": 13,
+        "stakeholder": "parent",
+        "feedback": "More security is needed in schools. Safety of students is a priority.",
+        "cleaned_text": "more security needed schools safety students priority",
+        "sentiment": "Negative",
+        "policy_match": [
+            "Child Rights and Safety"
+        ]
+    },
+    {
+        "id": 14,
+        "stakeholder": "teacher",
+        "feedback": "The assessment system should be improved to track students’ progress better.",
+        "cleaned_text": "assessment system improved track students progress better",
+        "sentiment": "Neutral",
+        "policy_match": [
+            "Assessment Cell Establishment"
+        ]
+    },
+    {
+        "id": 15,
+        "stakeholder": "student",
+        "feedback": "More emphasis should be given to extracurricular activities along with studies.",
+        "cleaned_text": "more emphasis extracurricular activities along studies",
+        "sentiment": "Positive",
+        "policy_match": [
+            "Uncategorized"
+        ]
+    },
+    {
+        "id": 16,
+        "stakeholder": "parent",
+        "feedback": "Teachers should receive better pay. Many talented educators leave for better opportunities.",
+        "cleaned_text": "teachers better pay talented educators leave better opportunities",
+        "sentiment": "Negative",
+        "policy_match": [
+            "Teacher Training"
+        ]
+    },
+    {
+        "id": 17,
+        "stakeholder": "teacher",
+        "feedback": "Schools need better internet connectivity to implement e-learning solutions effectively.",
+        "cleaned_text": "schools need better internet connectivity implement e-learning solutions",
+        "sentiment": "Negative",
+        "policy_match": [
+            "Digital Infrastructure"
+        ]
+    },
+    {
+        "id": 18,
+        "stakeholder": "student",
+        "feedback": "More scholarships should be introduced to support students from poor backgrounds.",
+        "cleaned_text": "more scholarships introduced support students poor backgrounds",
+        "sentiment": "Positive",
+        "policy_match": [
+            "Student Support and Welfare"
+        ]
+    },
+    {
+        "id": 19,
+        "stakeholder": "parent",
+        "feedback": "Hostels should have better security. Parents are worried about their children's safety.",
+        "cleaned_text": "hostels better security parents worried children's safety",
+        "sentiment": "Negative",
+        "policy_match": [
+            "Sanitation and Hostels"
+        ]
+    },
+    {
+        "id": 20,
+        "stakeholder": "teacher",
+        "feedback": "More budget should be allocated for science labs and practical experiments.",
+        "cleaned_text": "more budget allocated science labs practical experiments",
+        "sentiment": "Positive",
+        "policy_match": [
+            "STEM Education"
+        ]
+    },
+    {
+        "id": 21,
+        "stakeholder": "teacher",
+        "feedback": "Training programs should be conducted regularly to improve teaching methods.",
+        "cleaned_text": "training programs conducted regularly improve teaching methods",
+        "sentiment": "Positive",
+        "policy_match": [
+            "Teacher Training and Development"
+        ]
+    },
+    {
+        "id": 22,
+        "stakeholder": "student",
+        "feedback": "Classrooms are overcrowded, making it difficult to focus on studies.",
+        "cleaned_text": "classrooms overcrowded difficult focus studies",
+        "sentiment": "Negative",
+        "policy_match": [
+            "Infrastructure and Classroom Size"
+        ]
+    },
+    {
+        "id": 23,
+        "stakeholder": "parent",
+        "feedback": "The midday meal scheme is great, but the food quality needs improvement.",
+        "cleaned_text": "midday meal scheme great food quality needs improvement",
+        "sentiment": "Neutral",
+        "policy_match": [
+            "Nutrition and Midday Meal"
+        ]
+    },
+    {
+        "id": 24,
+        "stakeholder": "teacher",
+        "feedback": "We need more digital resources to make online teaching more effective.",
+        "cleaned_text": "more digital resources needed make online teaching effective",
+        "sentiment": "Positive",
+        "policy_match": [
+            "Digital Infrastructure"
+        ]
+    },
+    {
+        "id": 25,
+        "stakeholder": "student",
+        "feedback": "There should be more extracurricular activities for skill development.",
+        "cleaned_text": "more extracurricular activities skill development",
+        "sentiment": "Positive",
+        "policy_match": [
+            "Co-curricular Activities"
+        ]
+    },
+    {
+        "id": 26,
+        "stakeholder": "parent",
+        "feedback": "The transport system is unreliable, causing students to arrive late.",
+        "cleaned_text": "transport system unreliable causing students arrive late",
+        "sentiment": "Negative",
+        "policy_match": [
+            "Transport and Accessibility"
+        ]
+    },
+    {
+        "id": 27,
+        "stakeholder": "teacher",
+        "feedback": "Regular health check-ups should be mandatory for students.",
+        "cleaned_text": "regular health check-ups mandatory students",
+        "sentiment": "Positive",
+        "policy_match": [
+            "Health and Hygiene"
+        ]
+    },
+    {
+        "id": 28,
+        "stakeholder": "student",
+        "feedback": "The library lacks the latest books and study materials.",
+        "cleaned_text": "library lacks latest books study materials",
+        "sentiment": "Negative",
+        "policy_match": [
+            "Library and Study Resources"
+        ]
+    },
+    {
+        "id": 29,
+        "stakeholder": "parent",
+        "feedback": "There should be more parent-teacher meetings to discuss student progress.",
+        "cleaned_text": "more parent-teacher meetings discuss student progress",
+        "sentiment": "Positive",
+        "policy_match": [
+            "Parental Engagement"
+        ]
+    },
+    {
+        "id": 30,
+        "stakeholder": "teacher",
+        "feedback": "Administrative workload is too high, reducing time for teaching.",
+        "cleaned_text": "administrative workload too high reducing time teaching",
+        "sentiment": "Negative",
+        "policy_match": [
+            "Teacher Workload Management"
+        ]
+    },
+    {
+        "id": 31,
+        "stakeholder": "teacher",
+        "feedback": "More funding should be allocated to improve school infrastructure.",
+        "cleaned_text": "more funding allocated improve school infrastructure",
+        "sentiment": "Positive",
+        "policy_match": [
+            "Infrastructure and Classroom Size"
+        ]
+    },
+    {
+        "id": 32,
+        "stakeholder": "student",
+        "feedback": "The lack of clean drinking water is a major issue in our school.",
+        "cleaned_text": "lack clean drinking water major issue school",
+        "sentiment": "Negative",
+        "policy_match": [
+            "Sanitation and Hostels"
+        ]
+    },
+    {
+        "id": 33,
+        "stakeholder": "parent",
+        "feedback": "Hostel conditions need urgent improvement for student well-being.",
+        "cleaned_text": "hostel conditions need urgent improvement student well-being",
+        "sentiment": "Negative",
+        "policy_match": [
+            "Sanitation and Hostels"
+        ]
+    },
+    {
+        "id": 34,
+        "stakeholder": "teacher",
+        "feedback": "Teachers should get more professional development opportunities.",
+        "cleaned_text": "teachers should get more professional development opportunities",
+        "sentiment": "Positive",
+        "policy_match": [
+            "Teacher Training and Development"
+        ]
+    },
+    {
+        "id": 35,
+        "stakeholder": "student",
+        "feedback": "The school Wi-Fi is too slow to access online learning materials.",
+        "cleaned_text": "school Wi-Fi too slow access online learning materials",
+        "sentiment": "Negative",
+        "policy_match": [
+            "Digital Infrastructure"
+        ]
+    },
+    {
+        "id": 36,
+        "stakeholder": "parent",
+        "feedback": "Scholarship programs should be expanded to help more students.",
+        "cleaned_text": "scholarship programs expanded help more students",
+        "sentiment": "Positive",
+        "policy_match": [
+            "Student Support and Welfare"
+        ]
+    },
+    {
+        "id": 37,
+        "stakeholder": "teacher",
+        "feedback": "More science lab equipment is needed for practical experiments.",
+        "cleaned_text": "more science lab equipment needed practical experiments",
+        "sentiment": "Positive",
+        "policy_match": [
+            "STEM Education"
+        ]
+    },
+    {
+        "id": 38,
+        "stakeholder": "student",
+        "feedback": "Computer labs should be open after school hours for practice.",
+        "cleaned_text": "computer labs should open after school hours practice",
+        "sentiment": "Positive",
+        "policy_match": [
+            "Digital Infrastructure"
+        ]
+    },
+    {
+        "id": 39,
+        "stakeholder": "parent",
+        "feedback": "School buses are overcrowded and unsafe for children.",
+        "cleaned_text": "school buses overcrowded unsafe children",
+        "sentiment": "Negative",
+        "policy_match": [
+            "Transport and Accessibility"
+        ]
+    },
+    {
+        "id": 40,
+        "stakeholder": "teacher",
+        "feedback": "More interactive teaching methods should be introduced.",
+        "cleaned_text": "more interactive teaching methods introduced",
+        "sentiment": "Positive",
+        "policy_match": [
+            "Teacher Training and Development"
+        ]
+    },
+    {
+        "id": 41,
+        "stakeholder": "student",
+        "feedback": "The school should have an official mobile app for updates.",
+        "cleaned_text": "school should have official mobile app updates",
+        "sentiment": "Positive",
+        "policy_match": [
+            "Digital Infrastructure"
+        ]
+    },
+    {
+        "id": 42,
+        "stakeholder": "parent",
+        "feedback": "School management should improve security measures.",
+        "cleaned_text": "school management should improve security measures",
+        "sentiment": "Negative",
+        "policy_match": [
+            "Sanitation and Hostels"
+        ]
+    },
+    {
+        "id": 43,
+        "stakeholder": "teacher",
+        "feedback": "Smart boards in classrooms would make lessons more engaging.",
+        "cleaned_text": "smart boards classrooms make lessons more engaging",
+        "sentiment": "Positive",
+        "policy_match": [
+            "Digital Infrastructure"
+        ]
+    },
+    {
+        "id": 44,
+        "stakeholder": "student",
+        "feedback": "More physical education classes should be added to the schedule.",
+        "cleaned_text": "more physical education classes added schedule",
+        "sentiment": "Positive",
+        "policy_match": [
+            "Co-curricular Activities"
+        ]
+    },
+    {
+        "id": 45,
+        "stakeholder": "parent",
+        "feedback": "School should provide financial aid for books and supplies.",
+        "cleaned_text": "school provide financial aid books supplies",
+        "sentiment": "Positive",
+        "policy_match": [
+            "Student Support and Welfare"
+        ]
+    },
+    {
+        "id": 46,
+        "stakeholder": "teacher",
+        "feedback": "Teachers should be consulted before making curriculum changes.",
+        "cleaned_text": "teachers should consulted before making curriculum changes",
+        "sentiment": "Neutral",
+        "policy_match": [
+            "Teacher Training and Development"
+        ]
+    },
+    {
+        "id": 47,
+        "stakeholder": "student",
+        "feedback": "The computer lab should have more updated software.",
+        "cleaned_text": "computer lab should have more updated software",
+        "sentiment": "Positive",
+        "policy_match": [
+            "Digital Infrastructure"
+        ]
+    },
+    {
+        "id": 48,
+        "stakeholder": "parent",
+        "feedback": "More school counselors should be available for students.",
+        "cleaned_text": "more school counselors available students",
+        "sentiment": "Positive",
+        "policy_match": [
+            "Student Support and Welfare"
+        ]
+    },
+    {
+        "id": 49,
+        "stakeholder": "teacher",
+        "feedback": "Teachers should be provided with better online teaching tools.",
+        "cleaned_text": "teachers should provided better online teaching tools",
+        "sentiment": "Positive",
+        "policy_match": [
+            "Digital Infrastructure"
+        ]
+    },
+    {
+        "id": 50,
+        "stakeholder": "student",
+        "feedback": "More group projects should be included in coursework.",
+        "cleaned_text": "more group projects included coursework",
+        "sentiment": "Positive",
+        "policy_match": [
+            "Co-curricular Activities"
+        ]
+    },
+    {
+        "id": 51,
+        "stakeholder": "parent",
+        "feedback": "Parents should have an online portal to check student progress.",
+        "cleaned_text": "parents should have online portal check student progress",
+        "sentiment": "Positive",
+        "policy_match": [
+            "Parental Engagement"
+        ]
+    },
+    {
+        "id": 52,
+        "stakeholder": "teacher",
+        "feedback": "Schools need better technology for managing attendance records.",
+        "cleaned_text": "schools need better technology managing attendance records",
+        "sentiment": "Positive",
+        "policy_match": [
+            "Digital Infrastructure"
+        ]
+    },
+    {
+        "id": 53,
+        "stakeholder": "student",
+        "feedback": "The school should organize more hackathons and coding competitions.",
+        "cleaned_text": "school organize more hackathons coding competitions",
+        "sentiment": "Positive",
+        "policy_match": [
+            "STEM Education"
+        ]
+    },
+    {
+        "id": 14,
+        "stakeholder": "teacher",
+        "feedback": "More practical labs are needed for science subjects to enhance learning.",
+        "cleaned_text": "more practical labs needed science subjects enhance learning",
+        "sentiment": "Positive",
+        "policy_match": [
+            "STEM Education"
+        ]
+    },
+    {
+        "id": 15,
+        "stakeholder": "student",
+        "feedback": "The library should have more updated books and digital resources.",
+        "cleaned_text": "library should have more updated books digital resources",
+        "sentiment": "Positive",
+        "policy_match": [
+            "Digital Infrastructure"
+        ]
+    },
+    {
+        "id": 16,
+        "stakeholder": "parent",
+        "feedback": "School canteens should provide healthier food options for children.",
+        "cleaned_text": "school canteens provide healthier food options children",
+        "sentiment": "Neutral",
+        "policy_match": [
+            "Sanitation and Hostels"
+        ]
+    },
+    {
+        "id": 17,
+        "stakeholder": "teacher",
+        "feedback": "Regular health checkups should be conducted for students.",
+        "cleaned_text": "regular health checkups conducted students",
+        "sentiment": "Positive",
+        "policy_match": [
+            "Student Support and Welfare"
+        ]
+    },
+    {
+        "id": 18,
+        "stakeholder": "student",
+        "feedback": "More scholarships should be available for meritorious students.",
+        "cleaned_text": "more scholarships available meritorious students",
+        "sentiment": "Positive",
+        "policy_match": [
+            "Student Support and Welfare"
+        ]
+    },
+    {
+        "id": 19,
+        "stakeholder": "parent",
+        "feedback": "More transport facilities should be provided for students in rural areas.",
+        "cleaned_text": "more transport facilities provided students rural areas",
+        "sentiment": "Negative",
+        "policy_match": [
+            "Transportation Assistance"
+        ]
+    },
+    {
+        "id": 20,
+        "stakeholder": "teacher",
+        "feedback": "Schools should have more guest lectures from industry experts.",
+        "cleaned_text": "schools should have more guest lectures industry experts",
+        "sentiment": "Positive",
+        "policy_match": [
+            "Vocational Education"
+        ]
+    },
+    {
+        "id": 21,
+        "stakeholder": "student",
+        "feedback": "There should be separate study rooms for students in hostels.",
+        "cleaned_text": "separate study rooms students hostels",
+        "sentiment": "Positive",
+        "policy_match": [
+            "Sanitation and Hostels"
+        ]
+    },
+    {
+        "id": 22,
+        "stakeholder": "parent",
+        "feedback": "Special attention should be given to children with disabilities.",
+        "cleaned_text": "special attention given children disabilities",
+        "sentiment": "Positive",
+        "policy_match": [
+            "Student Support and Welfare"
+        ]
+    },
+    {
+        "id": 23,
+        "stakeholder": "teacher",
+        "feedback": "Teachers should be provided with more digital teaching aids.",
+        "cleaned_text": "teachers provided more digital teaching aids",
+        "sentiment": "Positive",
+        "policy_match": [
+            "Digital Infrastructure"
+        ]
+    },
+    {
+        "id": 24,
+        "stakeholder": "student",
+        "feedback": "More extra-curricular activities should be encouraged in schools.",
+        "cleaned_text": "more extra-curricular activities encouraged schools",
+        "sentiment": "Positive",
+        "policy_match": [
+            "Co-curricular Activities"
+        ]
+    },
+    {
+        "id": 25,
+        "stakeholder": "parent",
+        "feedback": "Parental engagement in school decision-making should be improved.",
+        "cleaned_text": "parental engagement school decision-making improved",
+        "sentiment": "Positive",
+        "policy_match": [
+            "Parental Engagement"
+        ]
+    },
+    {
+        "id": 26,
+        "stakeholder": "teacher",
+        "feedback": "Professional development workshops should be held frequently.",
+        "cleaned_text": "professional development workshops held frequently",
+        "sentiment": "Positive",
+        "policy_match": [
+            "Teacher Training"
+        ]
+    },
+    {
+        "id": 27,
+        "stakeholder": "student",
+        "feedback": "Coding should be introduced as a compulsory subject.",
+        "cleaned_text": "coding introduced compulsory subject",
+        "sentiment": "Positive",
+        "policy_match": [
+            "STEM Education"
+        ]
+    },
+    {
+        "id": 28,
+        "stakeholder": "parent",
+        "feedback": "Schools should focus more on mental health awareness programs.",
+        "cleaned_text": "schools focus more mental health awareness programs",
+        "sentiment": "Positive",
+        "policy_match": [
+            "Student Support and Welfare"
+        ]
+    },
+    {
+        "id": 29,
+        "stakeholder": "teacher",
+        "feedback": "Textbooks should be available in digital format for easy access.",
+        "cleaned_text": "textbooks available digital format easy access",
+        "sentiment": "Positive",
+        "policy_match": [
+            "Digital Infrastructure"
+        ]
+    },
+    {
+        "id": 30,
+        "stakeholder": "student",
+        "feedback": "Online learning platforms should be more interactive.",
+        "cleaned_text": "online learning platforms more interactive",
+        "sentiment": "Positive",
+        "policy_match": [
+            "Digital Infrastructure"
+        ]
+    }
+]
